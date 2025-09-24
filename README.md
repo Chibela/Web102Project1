@@ -1,16 +1,71 @@
-# React + Vite
+# Web Development Project 1 - GSU Student Organizations & Resources
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Chibela Changwe**
 
-Currently, two official plugins are available:
+This web app: **displays campus student organizations, ministries, and academic clubs in a responsive card-based layout, allowing users to quickly browse and learn about resources at Grambling State University.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **5 hours spent in total**
 
-## React Compiler
+## Live Site
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Check out the live version of the app here: [GSU Student Organizations & Resources](https://Chibela.github.io/Web102Project1/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [x] There are at least 10 cards displayed
+  - [x] The cards are displayed in an organized grid format
+  - [x] Each card includes the organization's name, type, description, and logo
+
+---
+
+## Optional Features
+
+The following **optional** features are implemented:
+
+- [x] Buttons or links to related resources are on each card component
+  - [x] All cards include a “Learn More” button
+- [x] The site is responsive for both desktop and mobile formats
+  - [x] Web app is viewable in mobile format
+  - [x] **Video Walkthrough Special Instructions**: Demonstrated responsiveness using Chrome Developer Tools' "Toggle Device" button to show desktop and mobile formats.
+
+---
+
+## Additional Features
+
+- [x] Smooth hover effects on cards for interactivity
+- [x] Shadowed card styling to make content visually distinct
+- [x] Images optimized and hosted locally in the `public/orgs` folder
+- [x] Grid layout automatically adjusts to screen width using CSS `grid-template-columns`
+
+---
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+
+GIF created with **ScreenToGif** (Windows).
+
+---
+
+## Notes
+
+Challenges encountered while building the app:
+
+- Ensuring all cards remain responsive across different screen sizes
+- Aligning images and text consistently across cards
+- Fetching and loading `orgs.json` from the `public` folder without breaking React routing
+
+---
+
+## License
+
+Copyright [2025] [Chibela Changwe]
