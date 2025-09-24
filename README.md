@@ -6,10 +6,6 @@ This web app: **displays campus student organizations, ministries, and academic 
 
 Time spent: **5 hours spent in total**
 
-## Live Site
-
-Check out the live version of the app here: [GSU Student Organizations & Resources](https://Chibela.github.io/Web102Project1/)
-
 ---
 
 ## Required Features
@@ -17,11 +13,11 @@ Check out the live version of the app here: [GSU Student Organizations & Resourc
 The following **required** functionality is completed:
 
 - [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [x] Header/title describing the theme is displayed
+- [x] Header/title describing the theme is displayed
 - [x] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [x] There are at least 10 cards displayed
-  - [x] The cards are displayed in an organized grid format
-  - [x] Each card includes the organization's name, type, description, and logo
+- [x] There are at least 10 cards displayed
+- [x] The cards are displayed in an organized grid format
+- [x] Each card includes the organization's name, type, description, and logo
 
 ---
 
@@ -30,10 +26,10 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Buttons or links to related resources are on each card component
-  - [x] All cards include a “Learn More” button
+- [x] All cards include a “Learn More” button
 - [x] The site is responsive for both desktop and mobile formats
-  - [x] Web app is viewable in mobile format
-  - [x] **Video Walkthrough Special Instructions**: Demonstrated responsiveness using Chrome Developer Tools' "Toggle Device" button to show desktop and mobile formats.
+- [x] Web app is viewable in mobile format
+- [x] **Video Walkthrough Special Instructions**: Demonstrated responsiveness using Chrome Developer Tools' "Toggle Device" button to show desktop and mobile formats.
 
 ---
 
@@ -50,7 +46,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src="https://raw.githubusercontent.com/Chibela/Web102Project1/main/public/walkthrough.gif" title="Video Walkthrough" alt="Video Walkthrough" width="600"/>
 
 GIF created with **ScreenToGif** (Windows).
 
