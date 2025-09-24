@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Household of Faith (HOF Grambling)",
+    "type": "Religious / Ministry",
+    "desc": "Campus ministry group fostering faith, fellowship, and spiritual growth.",
+    "img": "/orgs/hof.jpeg"
+  },
+  {
+    "name": "Chess Club",
+    "type": "Academic / Hobby",
+    "desc": "For chess enthusiasts: come play, compete, and develop skills.",
+    "img": "/orgs/chess.jpg"
+  },
+  {
+    "name": "Math Club",
+    "type": "Academic",
+    "desc": "Support for mathematics students, problem solving sessions, peer tutoring.",
+    "img": "/orgs/math.jpg"
+  },
+  {
+    "name": "ColorStack Grambling",
+    "type": "Tech / Diversity",
+    "desc": "Chapter to support underrepresented students in computing and tech fields.",
+    "img": "/orgs/colorstack.JPG"
+  },
+  {
+    "name": "National Society of Black Engineers (NSBE)",
+    "type": "Academic / Professional",
+    "desc": "Promotes excellence in STEM for Black students; networking, workshops, events.",
+    "img": "/orgs/nsbe.png"
+  },
+  {
+    "name": "Alpha Phi Alpha Fraternity, Inc.",
+    "type": "Greek / Fraternity",
+    "desc": "Develop leaders, promote brotherhood and academic excellence.",
+    "img": "/orgs/apa.jpg"
+  },
+  {
+    "name": "Kappa Alpha Psi Fraternity, Inc.",
+    "type": "Greek / Fraternity",
+    "desc": "To encourage honorable achievement in all fields of endeavor.",
+    "img": "/orgs/kapsi.png"
+  },
+  {
+    "name": "Omega Psi Phi Fraternity, Inc.",
+    "type": "Greek / Fraternity",
+    "desc": "Brings together men of high ideals, stimulate ambitions, foster dignity.",
+    "img": "/orgs/opp.jpg"
+  },
+  {
+    "name": "Phi Beta Sigma Fraternity, Inc.",
+    "type": "Greek / Fraternity",
+    "desc": "Culture for service, service for humanity.",
+    "img": "/orgs/pbs.png"
+  },
+  {
+    "name": "Delta Sigma Theta Sorority, Inc.",
+    "type": "Greek / Sorority",
+    "desc": "Promotes educational development, social action, and community service.",
+    "img": "/orgs/dst.png"
+  }
+]
